@@ -1,0 +1,39 @@
+h2{
+    text-align: center;
+    border: 1px solid #FCA42C;
+    color: #FCA42C;
+    cursor: url(https://img.icons8.com/doodle/48/000000/minecraft-sword.png),auto;
+}
+*{
+    text-align: center;
+}
+nav{
+    text-align: center;
+    border: 1px solid #FCA42C;
+}
+nav a{
+    margin-left: 50px;
+    margin-right: 50px;
+    text-decoration: none;
+    color:#FCA42C;
+}
+body {
+    background: url(background.jpg);
+    background-size: cover;
+}
+p{
+    border-color: #FCA42C;
+    text-align: center;
+    color:#ffffff;
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 50px;
+}
+img{
+    height: 175px;
+    width: 175px;
+    float: right;
+}
+footer{
+    color:#FCA42C;
+    font-size: 25px;
+}
