@@ -1,0 +1,15 @@
+To learn about flexbox use css-tricks and flexbox-froggy.com.
+
+some important links to be used while using transitions or adding other new properties realted to browsers:
+
+https://autoprefixer.github.io/
+
+https://caniuse.com/
+
+http://shouldiprefix.com/
+
+https://www.w3schools.com/cssref/css3_browsersupport.asp
+
+for mastering transitions use :-
+
+https://thoughtbot.com/blog/transitions-and-transforms
