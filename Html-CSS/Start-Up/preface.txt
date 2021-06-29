@@ -1,0 +1,2 @@
+The Website deployed here is a protoype of typical startup page ad the services of email marketig is done using the mailchimp.com.
+username:ritik75.
