@@ -1,0 +1,33 @@
+
+// Make a Calculator! using prompt(), and variables, make a program that does the following:
+// 1. Prompts the user for first number.
+// 2. Stores that first number
+// 3. Prompts the user for the second number.
+// 4. stores that number and responds with the SUM by using an alert.  
+
+
+// BONUS: Make a program that can subtract, multiply, and also divide!
+
+// Sum: 
+
+var firstNumber = parseInt(prompt("Enter the First Number: "));
+var secondNumber = parseInt(prompt("Enter the Second Number: "));
+alert(firstNumber+secondNumber);
+
+// Subtract: 
+
+var firstNumber = parseInt(prompt("Enter the First Number: "));
+var secondNumber = parseInt(prompt("Enter the Second Number: "));
+alert(firstNumber-secondNumber);
+
+// Multiply: 
+
+var firstNumber = parseInt(prompt("Enter the First Number: "));
+var secondNumber = parseInt(prompt("Enter the Second Number: "));
+alert(firstNumber*secondNumber);
+
+// Divide: 
+
+var firstNumber = parseInt(prompt("Enter the First Number: "));
+var secondNumber = parseInt(prompt("Enter the Second Number: "));
+alert(firstNumber/secondNumber);
